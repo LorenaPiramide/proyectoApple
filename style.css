@@ -1,0 +1,16 @@
+.container1{
+    background-image: url(images/apple1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+h2{
+    font-size: 56px;
+}
+h3{
+    font-size: 28px;
+}
+@media all and (min-width: 769px) and (max-width: 1027px){
+    
+}
