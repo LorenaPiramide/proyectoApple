@@ -27,3 +27,21 @@ h3{
         font-size: 19px;
     }
 }
+body{
+    margin: 0%;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #121212;
+}
+nav{
+    display: flex;
+    gap: 50px;
+}
+.seccion{
+    text-decoration: none;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
