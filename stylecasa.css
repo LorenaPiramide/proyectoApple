@@ -62,12 +62,3 @@ h2{
         font-size: 24px;
     }
 }
-/*Pantallas*/
-@media all and (min-width: 1201px){
-    h1{
-        font-size: 96px;
-    }
-    h2{
-        font-size: 24px;
-    }
-}
